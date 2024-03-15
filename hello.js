@@ -4,8 +4,13 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
-
+console.log("Hello, World");
+console.log("5");
+const sum = 5 + 3;
+console.log("sum :", sum);
+console.log("If steve has 5 apple and recives 3 more his total of apple is:", sum );
+var text = "\"Words offer the means to meaning, and for those who will listen, the enunciation of truth\"";
+console.log("", text);
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
